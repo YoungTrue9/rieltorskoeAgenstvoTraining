@@ -1,0 +1,69 @@
+
+.row{
+    margin-top: 64px;
+    margin-left: 223px;
+}
+/* Три колонны бок о бок */
+.column {
+    float: left;
+    width: 23%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  /* Отображение столбцов друг под другом, а не бок о бок на небольших экранах */
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+  
+  /* Добавить некоторые тени для создания эффекта карты */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Некоторые левые и правые прокладки внутри контейнера */
+  .container {
+    padding: 0 16px;
+  }
+  
+  /* Очистить поплавки */
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .button:hover {
+    background-color: #555;
+  }
+
+.color_button1{
+    background-color: #e1b815;
+}
+
+.color_button2{
+    background-color: #a2cf55;
+}
+
+.color_button3{
+    background-color: #63c1c5;
+}

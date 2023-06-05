@@ -1,0 +1,43 @@
+<div class="our_time">Лучшая команда</div>
+            <div class="people_info_team">                       <!-- Общий контенер -->
+                <div class="people_team">                                               <!-- 1 -->
+                    <div class="title_team">Риэлтор</div>                               <!-- Профессия -->
+                        <img class="img_name_team" src="img/img_people/people.png">                              <!-- Фотография -->
+                            <div class="name_people_team">Владимир</div>                <!-- Имя сотрудника -->
+                                <div class="work_people_team">
+                                    Помогает покупателю при проведении сделок с объектами недвижимости.
+                                </div>                                                  <!-- Кто -->
+                </div>
+                <div class="people_team">                                               <!-- 2 -->
+                    <div class="title_team">Юрист</div>                                 <!-- Профессия -->
+                        <img class="img_name_team" src="img/img_people/people.png">                              <!-- Фотография -->
+                            <div class="name_people_team">Олег</div>                    <!-- Имя сотрудника -->
+                                <div class="work_people_team">
+                                    Знает законы и правовые нормы, умеет их использовать и способен обучать их основам других.
+                                </div>                                                  <!-- Кто -->
+                </div>
+                <div class="people_team">                                               <!-- 3 -->
+                    <div class="title_team">Личный Агент</div>                          <!-- Профессия -->
+                        <img class="img_name_team" src="img/img_people/people.png">                              <!-- Фотография -->
+                            <div class="name_people_team">Сергей</div>                  <!-- Имя сотрудника -->
+                                <div class="work_people_team">
+                                    Ваш защитник и помошник, решает ваши проблемы в полном цикле покупке-продажи недвижимости.
+                                </div>                                                  <!-- Кто -->
+                </div>
+                <div class="people_team">                                               <!-- 4 -->
+                    <div class="title_team">Зам.Директора</div>                         <!-- Профессия -->
+                        <img class="img_name_team" src="img/img_people/people.png">                              <!-- Фотография -->
+                            <div class="name_people_team">Кирилл</div>                  <!-- Имя сотрудника -->
+                                <div class="work_people_team">
+                                    Заместитель директора агенства недвижимости, решает чужие вопросы.
+                                </div>                                                  <!-- Кто -->
+                </div>
+                <div class="people_team">                                               <!-- 5 -->
+                    <div class="title_team">Директор</div>                              <!-- Профессия -->
+                        <img class="img_name_team" src="img/img_people/people.png">                              <!-- Фотография -->
+                            <div class="name_people_team">Артём</div>                   <!-- Имя сотрудника -->
+                                <div class="work_people_team">
+                                    Решает ваши любые вопросы, которые могут появится в любом этапе сотрудничества. 
+                                </div>                                                  <!-- Кто -->
+                </div> 
+            </div>
